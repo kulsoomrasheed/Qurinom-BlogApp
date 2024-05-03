@@ -41,7 +41,7 @@ Share your thoughts, stories, and ideas with the world. Start writing your next 
 
 # Getting Started
 
-To explore GreenTask App, follow these simple steps:
+To explore BlogVibe App, follow these simple steps:
 
 Clone this repository to your local machine.
 Navigate to the project directory.
@@ -52,7 +52,7 @@ Access BlogVibe App in your web browser and start managing your tasks efficientl
 
 # Contributing
 
-We welcome contributions from developers of all skill levels. Whether it's fixing bugs, implementing new features, or improving documentation, your contributions are highly valued. Simply fork the repository, make your changes, and submit a pull request to contribute to the growth of GreenTask App.
+We welcome contributions from developers of all skill levels. Whether it's fixing bugs, implementing new features, or improving documentation, your contributions are highly valued. Simply fork the repository, make your changes, and submit a pull request to contribute to the growth of BlogVibe App.
 
 # Author
 
