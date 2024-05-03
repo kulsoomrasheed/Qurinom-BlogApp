@@ -1,0 +1,4 @@
+    export const BLOG_PENDING= "BLOG_PENDING"
+    export const GET_BLOG_SUCCESS= "GET_BLOG_SUCCESS"
+    export const POST_BLOG_SUCCESS= "POST_BLOG_SUCCESS"
+    export const BLOG_FAILURE= "BLOG_FAILURE"
